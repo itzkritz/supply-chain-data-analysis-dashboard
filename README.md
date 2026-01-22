@@ -27,8 +27,9 @@ Customer Demographics: Segmenting buyers by gender (Male, Female, Non-binary, an
 
 Geography: Visualizing revenue distribution across key hubs like Mumbai, Delhi, and Kolkata.
 
-# Dataset from: https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset
-
 Delivery Speed: Monitoring shipping times to ensure SLA compliance.
 
 Quality Check: Tracking the percentage of products that Pass, Fail, or are Pending inspection.
+
+# Dataset from:
+https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset
